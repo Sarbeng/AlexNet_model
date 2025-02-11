@@ -16,6 +16,10 @@ Extract the `cifar-10-python.tar.gz` file, then your folder structure should be 
 
 ![Folder Structure](folder_structure.png)
 
+# Downloading the pretrained model
+
+https://www.kaggle.com/models/kwadwosarbengbaafi/alexnet-model-using-the-cifar10-dataset
+
 # Training CIFAR-10 dataset
 To train the network with cifar-10 dataset, type the following command at the command prompt:
 ```
@@ -67,6 +71,14 @@ To evaluate the network with cifar-10 dataset, type the following command at the
 ```
 python3 ./evaluate.py
 ```
+# Running a Test with the Pretrained Model
+```
+Open testing_cifar10.ipynb
+
+Run the code within
+
+```
+
 # Dependencies
 * Python 3
 * numpy
