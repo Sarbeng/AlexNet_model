@@ -18,7 +18,7 @@ Extract the `cifar-10-python.tar.gz` file, then your folder structure should be 
 
 # Downloading the pretrained model
 
-https://www.kaggle.com/models/kwadwosarbengbaafi/alexnet-model-using-the-cifar10-dataset/settings
+https://www.kaggle.com/models/kwadwosarbengbaafi/alexnet-model-using-the-cifar10-dataset
 
 # Training CIFAR-10 dataset
 To train the network with cifar-10 dataset, type the following command at the command prompt:
