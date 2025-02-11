@@ -32,38 +32,33 @@ Sample images from cifar-10 dataset:
 
 ## Results
 
-### Epoch 0
-```
-Train Accuracy = 0.100
-Test Accuracy = 0.100
-```
 
 ### Epoch 1
 ```
-Train Accuracy = 0.305
-Test Accuracy = 0.303
+Train Accuracy = 0.1718
+Validation Accuracy = 0.2737
 ```
 
 ### Epoch 2
 ```
-Train Accuracy = 0.408
-Test Accuracy = 0.402
+Train Accuracy = 0.4015
+Validation Accuracy =  0.5040
 ```
 
 ...
 
 ### Epoch 50
 ```
-Train Accuracy = 0.986
-Test Accuracy = 0.721
+Train Accuracy = 0.8430
+Validation Accuracy = 0.8105
 ```
 
 ...
 
 ### Epoch 100
 ```
-Final Train Accuracy = 1.000
-Final Test Accuracy = 0.739
+Final Train Accuracy = 0.957
+Final Validation Accuracy = 0.827
 ```
 
 # Evaluating CIFAR-10 dataset
